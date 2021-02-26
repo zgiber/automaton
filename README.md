@@ -2,7 +2,7 @@
 
 *An automaton (/ɔːˈtɒmətən/; plural: automata or automatons) is a relatively self-operating machine, or a machine or control mechanism designed to automatically follow a predetermined sequence of operations, or respond to predetermined instructions*
 
-## The Idea
+## Concept
 
 A tool that allows to define, configure, and execute non-trivial tasks, that often consists of multiple steps and have dependencies amongst each other.
 
